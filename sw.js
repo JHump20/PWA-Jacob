@@ -1,4 +1,4 @@
-var cacheName = 'Hello-PWA';
+var cacheName = 'hello-pwa';
 var filesToCache = [
   '/',
   '/index.html',
